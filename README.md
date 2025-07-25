@@ -43,20 +43,6 @@ Iniciar el backend en http://localhost:5173/ (o el puerto que uses).
 
 Iniciar el frontend en http://localhost:4000.
 
-📦 Estructura del Proyecto
-/
-├── BackEnd
-│   ├── src
-│   │   ├── controllers
-│   │   ├── routes
-│   │   └── ...
-│   └── package.json
-├── FrontEnd
-│   ├── src
-│   │   ├── pages
-│   │   └── ...
-│   └── package.json
-└── package.json (raíz con script "dev")
 
 📬 API Endpoints (ejemplo)
 GET /tareas – Obtener todas las tareas.
