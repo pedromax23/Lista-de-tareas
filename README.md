@@ -52,3 +52,9 @@ POST /tareas – Crear una nueva tarea.
 PUT /tareas/:id – Editar una tarea.
 
 DELETE /tareas/:id – Eliminar tarea.
+
+HOME
+![alt text](image.png)
+
+CREAR TAREA
+![alt text](image-1.png)
