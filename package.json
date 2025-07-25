@@ -1,0 +1,15 @@
+{
+  "name": "lista-de-tareas",
+  "version": "1.0.0",
+  "description": "Proyecto para el challenge de ForIt",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix BackEnd\" \"npm run dev --prefix FrontEnd\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
